@@ -8,7 +8,7 @@
 
  NOOOOO se puede colocar
 
- conjunto = set{}  ya que de esta forma python lo toma como un diccionrio
+ conjunto = set{}  ya que de esta forma python lo toma como un diccionrio 
 
 
  dentro de los conjunto no podemos tenener otro tipo de colecciones como por ejemplo una lista, ya que no se puede tener colecciones

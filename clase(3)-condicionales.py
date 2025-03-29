@@ -382,6 +382,6 @@ en pantalla, cual de los tres numeros es el mas grande'''
 # elif num3 > num1 and num3 > num2:
 #     print(f"numero {num3} es mayor") 
 # elif num1 == num2 and num1 == 3:
-#     print("los tres numeros son iguales ")
+#     print("los tres numeros son iguales ").
 
 

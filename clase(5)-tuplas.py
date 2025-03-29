@@ -33,6 +33,100 @@ tupla.pop() eliminar                                                        .ind
 
 # print(lista)
 
+# ¿Qué es una tupla?
+# Una tupla es una estructura de datos en Python similar a una lista,
+# pero con la diferencia de que es inmutable, es decir, no se puede modificar después de su creación.
+
+# 1. Crear una tupla
+# mi_tupla = (1, 2, 3, 4, 5)
+# print("Tupla:", mi_tupla)
+
+# # 2. Acceder a elementos de una tupla
+# print("Primer elemento:", mi_tupla[0])
+# print("Último elemento:", mi_tupla[-1])
+
+# # 3. Intentar modificar una tupla (esto dará error)
+# # mi_tupla[1] = 10  # Error, las tuplas son inmutables
+
+# # 4. Desempaquetar una tupla
+# (a, b, c, d, e) = mi_tupla
+# print("Valores desempaquetados:", a, b, c, d, e)
+
+# # 5. Concatenar dos tuplas
+# tupla1 = (1, 2, 3)
+# tupla2 = (4, 5, 6)
+# tupla_concatenada = tupla1 + tupla2
+# print("Tupla concatenada:", tupla_concatenada)
+
+# # 6. Repetir una tupla
+# tupla_repetida = tupla1 * 3
+# print("Tupla repetida:", tupla_repetida)
+
+# # 7. Verificar si un elemento está en una tupla
+# print(3 in mi_tupla)  # True
+# print(10 in mi_tupla)  # False
+
+# # 8. Obtener la longitud de una tupla
+# print("Longitud de la tupla:", len(mi_tupla))
+
+# # 9. Contar elementos en una tupla
+# tupla_contar = (1, 2, 2, 3, 3, 3, 4, 4, 4, 4)
+# print("Número de veces que aparece el 3:", tupla_contar.count(3))
+
+# # 10. Encontrar el índice de un elemento
+# tupla_indices = ("a", "b", "c", "d")
+# print("Índice de 'c':", tupla_indices.index("c"))
+
+# # 11. Convertir una tupla en lista
+# lista_desde_tupla = list(mi_tupla)
+# print("Lista desde tupla:", lista_desde_tupla)
+
+# # 12. Convertir una lista en tupla
+# lista = [10, 20, 30]
+# tupla_desde_lista = tuple(lista)
+# print("Tupla desde lista:", tupla_desde_lista)
+
+# # 13. Crear una tupla con un solo elemento
+# una_tupla = (5,)
+# print("Tupla con un solo elemento:", una_tupla)
+
+# # 14. Iterar sobre una tupla
+# tupla_iterar = ("rojo", "verde", "azul")
+# for color in tupla_iterar:
+#     print("Color:", color)
+
+# # 15. Usar `max()` y `min()` en tuplas numéricas
+# tupla_numerica = (10, 20, 5, 30, 25)
+# print("Máximo:", max(tupla_numerica))
+# print("Mínimo:", min(tupla_numerica))
+
+# # 16. Crear una tupla anidada
+# tupla_anidada = ((1, 2), (3, 4), (5, 6))
+# print("Tupla anidada:", tupla_anidada)
+
+# # 17. Acceder a elementos de una tupla anidada
+# print("Elemento (1,2):", tupla_anidada[0])
+# print("Elemento 3:", tupla_anidada[1][0])
+
+# # 18. Comparar tuplas
+# tupla_a = (1, 2, 3)
+# tupla_b = (1, 2, 4)
+# print("¿Son iguales?:", tupla_a == tupla_b)
+# print("¿Es menor?:", tupla_a < tupla_b)
+
+# # 19. Usar tuplas en funciones
+# def coordenadas():
+#     return (10.5, 20.3)
+
+# x, y = coordenadas()
+# print("Coordenadas:", x, y)
+
+# # 20. Convertir una cadena en tupla
+# cadena = "Python"
+# tupla_desde_cadena = tuple(cadena)
+# print("Tupla desde cadena:", tupla_desde_cadena)
+
+
 
 
 ''''''

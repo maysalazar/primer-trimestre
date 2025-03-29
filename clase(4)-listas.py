@@ -62,7 +62,7 @@ podemos almcenar en una lista muchos datos  cadenas numeros enteros , subcadenas
 # print(29 in lista)
 
 '''******lista.index********para saber en que indice se ubica dicho elemento utilisamos el metoo index
-lista.index(5) aca nos diria en que posicion esta el numero 5 que en nuestro ejemplo estaria en la posicion 4'''
+lista.index(5) aca nos diria en que posicion esta el numero 5 que en nuestro ejemplo estaria en la posicion 4 '''
 
 # lista = [1,2,3,4,5,"salazar"]
 

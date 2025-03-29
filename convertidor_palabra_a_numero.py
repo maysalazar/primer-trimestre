@@ -1,4 +1,4 @@
-print("convertidor de palabras\n")
+print("convertidor de palabrass\n")
 
 print("MENU DE OPCIONES")
 
