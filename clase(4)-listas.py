@@ -55,7 +55,7 @@ podemos almcenar en una lista muchos datos  cadenas numeros enteros , subcadenas
 
 '''*****in******* lo utilisamos para preguntar a la lista si elvalor esta o no y de esta manera nos dira true verdadero o false falso'''
 
-# lista = [1,2,3,4,5,"salazar"]
+# lista = [1,2,3,4,5,"salazar"] # esto es una lista 
 
 # print(3  in lista)
 # print("salazar" in lista)

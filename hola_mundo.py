@@ -6,4 +6,4 @@
 
 nombre = int(input("ingresar un numero al sistema: "))
 
-print(nombre)
+print(nombre) # esto es un print
