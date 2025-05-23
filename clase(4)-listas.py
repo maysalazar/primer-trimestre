@@ -44,7 +44,7 @@ podemos almcenar en una lista muchos datos  cadenas numeros enteros , subcadenas
     print(lista3)
     esto lo que ara seria sumar las dos listas concatenarlas '''
 
-# lista1 = [1,2,3,4,5]
+# lista1 = [1,2,3,4,5] # esto es una lista 
 # lista2 = [6,7,8,9]
 
 # lista3 = lista1 + lista2
