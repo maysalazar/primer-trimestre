@@ -21,7 +21,7 @@ Negacion                           not '''
 
 '''las condicionasle son estructuras de control, nos ayuda para comparar valores tanto para verdaderos como para falsos, '''
 
-# numero = int(input("digite un numero: "))
+# numero = int(input("digite un numero: ")) ## esta es una documetnacion 
 
 # if numero #hola mundo#>0:
 #     print("el numero es positivo")     #a identacion son los espacios que maneja desde mi condicional hasta mi print
