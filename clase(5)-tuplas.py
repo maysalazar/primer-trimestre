@@ -18,7 +18,7 @@ tupla.pop() eliminar                                                        .ind
 
 
 
-# tupla = (4,"hola",6.78,[1,2,3],4)
+# tupla = (4,"hola",6.78,[1,2,3],4) # esto es una tupla
 
 # print(tupla[-1])
 # print(tupla[1:])
