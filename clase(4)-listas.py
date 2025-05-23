@@ -25,7 +25,7 @@ podemos almcenar en una lista muchos datos  cadenas numeros enteros , subcadenas
  recordar que las posiciones inician desde 0 y luego colocas lo que vas agrerar lista.insert(3,"hola)'''
 
 
-# lista =[1,2,3,4,5]
+# lista =[1,2,3,4,5] # esto es una lista de numero 
 
 # lista.append(6)
 # lista.insert(3,"hola may")
