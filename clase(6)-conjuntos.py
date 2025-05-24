@@ -60,7 +60,7 @@ ejemplo '''
 
 '''union de dos conjuntos'''
 
-# a = {1,2,3} # esto es un ejemplo 
+# a = {1,2,3} # esto es un ejemplo  de diccionariosgit 
 # b = {3,4,5}
 
 # c = a | b
